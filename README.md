@@ -10,7 +10,7 @@ The purpose of this analysis was to demonstrate using python for simple calculat
   - *Denver:* 82.8% (306,055)
   - *Arapahoe:* 6.7% (24,801)
 - __Which county had the most votes?__
-  - *Denver
+  - *Denver*
 - __Candidate Breakdown__
   - *Charles Casper Stockham:* 23.1% (85,213)
   - *Diana DeGette:* 73.8% (272,892)
