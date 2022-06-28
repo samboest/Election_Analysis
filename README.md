@@ -1,10 +1,10 @@
 # Election_Analysis
 
 ## Overview
-    The purpose of this analysis was to demonstrate using python for simple calculations on a large data set.  In business it is common to have simple questions that must be answered with a large amount of data.  In this review, we are looking at election data by candidate and by county.  We want to dertmine the winning candidate, the county with the most turn out, overall and percent of the votes received. 
+The purpose of this analysis was to demonstrate using python for simple calculations on a large data set.  In business it is common to have simple questions that must be answered with a large amount of data.  In this review, we are looking at election data by candidate and by county.  We want to dertmine the winning candidate, the county with the most turn out, overall and percent of the votes received. 
 ## Election-Audit Results
 -**How many votes were cast?**
-        *369,711
+        --369,711
 --__County Breakdown__
         ---*Jefferson: 10.5% (38,855)
         ---*Denver: 82.8% (306,055)
