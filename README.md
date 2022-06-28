@@ -6,9 +6,9 @@ The purpose of this analysis was to demonstrate using python for simple calculat
 - **How many votes were cast?**
 369,711
 - __County Breakdown__
-  --*Jefferson:* 10.5% (38,855)
-  -- *Denver:* 82.8% (306,055)
-  -- *Arapahoe:* 6.7% (24,801)
+  - *Jefferson:* 10.5% (38,855)
+  - *Denver:* 82.8% (306,055)
+  - *Arapahoe:* 6.7% (24,801)
 - __Which county had the most votes?__
 *Denver
 - __Candidate Breakdown__
