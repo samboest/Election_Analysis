@@ -7,7 +7,7 @@ The purpose of this analysis was to demonstrate using python for simple calculat
 369,711
 - __County Breakdown__
   -- *Jefferson:* 10.5% (38,855)
-  -- *Denver:* 82.8% (306,055)
+   -- *Denver:* 82.8% (306,055)
   -- *Arapahoe:* 6.7% (24,801)
 - __Which county had the most votes?__
 *Denver
@@ -21,7 +21,3 @@ The purpose of this analysis was to demonstrate using python for simple calculat
 *Winning Percentage:* 73.8%
 ## Election-audit summary
 With some modifications, we could use this script for other elections.  I believe we could add code to read other CSV files from other elections and merge them for a larger analysis.  We could follow that same logic and during the next election we could append the new years election data and compare candidate votes if they re-ran for election.  Lastly, the code can easily be run again now for a different election as long as the file paths are updated.  
-* Bullet list
-              * Nested bullet
-                  * Sub-nested bullet etc
-          * Bullet list item 2
