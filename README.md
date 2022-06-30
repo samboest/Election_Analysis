@@ -21,7 +21,8 @@ The purpose of this analysis was to demonstrate using python for simple calculat
   - *Winning Vote Count:* 272,892
   - *Winning Percentage:* 73.8%
 ## Election-audit summary
-With some modifications, we could use this script for other elections.  I believe we could add code to read other CSV files from other elections and merge them for a larger analysis.  We could follow that same logic and during the next election we could append the new years election data and compare candidate votes if they re-ran for election.  Lastly, the code can easily be run again now for a different election as long as the file paths are updated.  
+With some modifications, we could use this script for other elections.  I believe we could add code to read other CSV files from other elections and merge them for a larger analysis.  We could follow that same logic and during the next election we could append the new years election data and compare candidate votes if they re-ran for election.  Lastly, the code can easily be run again now for a different election as long as the file paths are updated.
+## Results and Code Examples
 ![](Resources/text.file.results.png)
 ![](Resources/County.code%20screenshot.png)
 ![](Resources/candidate.code%20screenshot.png)
