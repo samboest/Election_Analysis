@@ -3,9 +3,9 @@
 ## Overview
 The purpose of this analysis was to demonstrate using python for simple calculations on a large data set.  In business it is common to have simple questions that must be answered with a large amount of data.  In this review, we are looking at election data by candidate and by county.  We want to dertmine the winning candidate, the county with the most turn out, overall and percent of the votes received. 
 ## Election-Audit Results
-- ![Results]("Resources/text.file.results.png")
-- ![County Results Code]("Resources/County.code%20screenshot.png")
-- ![Candidate Results Code]("Resources/candidate.code%20screenshot.png")
+![]("Resources/text.file.results.png")
+![]("Resources/County.code%20screenshot.png")
+![]("Resources/candidate.code%20screenshot.png")
 - **How many votes were cast?**
   - 369,711
 - __County Breakdown__
